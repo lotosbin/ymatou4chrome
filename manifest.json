@@ -1,7 +1,7 @@
 ﻿{
   "name": "Ymatou",
   "description": "Ymatou 4 Chrome",
-  "version": "0.0.0.1",
+  "version": "0.0.0.2",
   "app": {
 	"urls": [
 	  "http://www.ymatou.com/"
@@ -10,8 +10,6 @@
 	  "web_url": "http://www.ymatou.com/"
 	}
   },
-   //注意路径不能使用"./"开头，否则不能上传到google web app
-  //http://groups.google.com/a/chromium.org/group/chromium-apps/browse_thread/thread/9a2b08da091c5f36/fef6c6e67f04e0c6
   "icons": { 
 			"16": "res/icon/ymatou16.png",
 		   "24": "res/icon/ymatou24.png",
